@@ -1,3 +1,3 @@
 # garden-app
 
-# Assignment on Git Workflows and managingin issues and pull requests.
+# Assignment on Git Workflows and managing issues and pull requests.
